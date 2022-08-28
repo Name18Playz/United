@@ -11,6 +11,7 @@ export const translations = {
                 ptbr: "Português (Brasileiro)",
                 de: "Englisch",
                 it: ""
+                ta: "தமிழ்"
             },
             id: "en"
         },
