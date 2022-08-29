@@ -12,6 +12,7 @@ export const translations = {
                 de: "Englisch",
                 it: "Inglese",
                 jp: "英語"
+                ta: "தமிழ்"
             },
             id: "en"
         },
@@ -27,6 +28,7 @@ export const translations = {
                 de: "Polnisch",
                 it: "Polacco",
                 jp: "ポーランドの"
+                ta: "பாலிஷ்"
             },
             id: "pl"
         },
@@ -42,6 +44,7 @@ export const translations = {
                 de: "Bulgarisch",
                 it: "Bulgaro",
                 jp: "ブルガリア語"
+                ta: "பல்கேரியன்"
             },
             id: "bg"
         },
@@ -57,6 +60,7 @@ export const translations = {
                 de: "Ukrainisch",
                 it: "Ucraino",
                 jp: "ウクライナ語"
+                ta: "உக்ரைனியன்"
             },
             id: "ua"
         },
@@ -72,6 +76,7 @@ export const translations = {
                 de: "Französisch",
                 it: "Francese",
                 jp: "フランス語"
+                ta: "ஃப்ரெஞ்ச்"
             },
             id: "fr"
         },
@@ -87,6 +92,7 @@ export const translations = {
                 de: "Portugiesisch (Brasilien)",
                 it: "Portoghese (Brasile)",
                 jp: "ポルトガル語 (ブラジル)"
+                ta: "போர்துகேசிய"
             },
             id: "ptbr"
         },
@@ -102,6 +108,7 @@ export const translations = {
                 de: "Deutsch",
                 it: "Tedesco",
                 jp: "ドイツ人"
+                ta: "ஜெர்மானிய"
             },
             id: "de"
         },
@@ -117,6 +124,7 @@ export const translations = {
                 de: "Italienisch",
                 it: "Italiano",
                 jp: "イタリアの"
+                ta: "இத்தாலிய"
             },
             id: "it"
         },
@@ -132,6 +140,7 @@ export const translations = {
                 de: "Japanisch",
                 it: "Giapponese",
                 jp: "日本語"
+      ‌‌‌‌          ta: "ஜப்பானிய"
             },
             id: "jp"
         }
